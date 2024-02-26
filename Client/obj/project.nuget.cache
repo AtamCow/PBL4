@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u5xP99Lrmd6W8ifgNN67RAq0X8P8cDFRlTFcBQlG/sS9j1dkhmLHAPbwRTtm5VbZDdza2hOLUU/YHRcvRZu/gg==",
+  "success": true,
+  "projectFilePath": "F:\\ClientServerUI\\ClientServerUI\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caokh\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\caokh\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
